@@ -1,4 +1,4 @@
-package com.company.ctar.ctar_app;
+package com.example.ctar_app_new;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.company.ctar.ctar_app", appContext.getPackageName());
+        assertEquals("com.example.ctar_app_new", appContext.getPackageName());
     }
 }

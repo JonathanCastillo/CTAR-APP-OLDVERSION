@@ -1,4 +1,4 @@
-package com.company.ctar.ctar_app;
+package com.example.ctar_app_new;
 
 import org.junit.Test;
 
